@@ -8,3 +8,5 @@ Hola mundo otra vez 11:02pm
 Regresamos a la maquina local ahora.
 
 empezamos un chat desde la pagina web donde estoy modificando a las 11:07 pm
+
+HEAD
